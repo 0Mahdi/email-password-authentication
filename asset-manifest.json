@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/email-password-authentication/static/css/main.30ea52ad.css",
+    "main.js": "/email-password-authentication/static/js/main.0160e148.js",
+    "static/js/787.5e9e9537.chunk.js": "/email-password-authentication/static/js/787.5e9e9537.chunk.js",
+    "index.html": "/email-password-authentication/index.html",
+    "main.30ea52ad.css.map": "/email-password-authentication/static/css/main.30ea52ad.css.map",
+    "main.0160e148.js.map": "/email-password-authentication/static/js/main.0160e148.js.map",
+    "787.5e9e9537.chunk.js.map": "/email-password-authentication/static/js/787.5e9e9537.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ea52ad.css",
+    "static/js/main.0160e148.js"
+  ]
+}
